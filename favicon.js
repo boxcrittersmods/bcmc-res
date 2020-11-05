@@ -6,4 +6,4 @@
 	document.getElementsByTagName('head')[0].appendChild(link);
 })();*/
 
-document.write('<link rel="shortcut icon" href="https://res.boxcrittersmods.ga/favicon.ico" type="image / x - icon">);;
+document.write('<link rel="shortcut icon" href="https://res.boxcrittersmods.ga/favicon.ico" type="image/x-icon">);;
