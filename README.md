@@ -13,6 +13,6 @@
 
 ```html
 <footer>
-		<script src="https://res.boxcrittersmods.ga/footer.js"></script>
-	</footer>
+	<script src="https://res.boxcrittersmods.ga/footer.js"></script>
+</footer>
 ```
