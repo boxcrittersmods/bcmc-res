@@ -1,1 +1,1 @@
-document.write('&copy; <a href="https://boxcrittersmods.ga">Box Critters Modding Community</a> 2019 - '+ new Date().getFullYear());
+document.write('&copy; <a href="https://bcmc.ga">Box Critters Modding Community</a> 2019 - '+ new Date().getFullYear());
